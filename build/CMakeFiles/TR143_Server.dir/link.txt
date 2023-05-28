@@ -1,0 +1,1 @@
+/opt/cross-pi-gcc/install/bin/arm-linux-gnueabihf-gcc --sysroot=/opt/cross-pi-gcc/sysroot/ -Wno-psabi CMakeFiles/TR143_Server.dir/httpserver.c.o -o TR143_Server  gslib/libgslib.a gslib/auxsrc/libAuxLib.a 

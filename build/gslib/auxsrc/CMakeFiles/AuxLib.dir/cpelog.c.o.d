@@ -1,0 +1,28 @@
+gslib/auxsrc/CMakeFiles/AuxLib.dir/cpelog.c.o: \
+ /home/dmounday/gatespace/TR-143-Server/gslib/auxsrc/cpelog.c \
+ /opt/cross-pi-gcc/sysroot/usr/include/stdc-predef.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/stdio.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/libc-header-start.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/features.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/sys/cdefs.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/wordsize.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/long-double.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/gnu/stubs.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/gnu/stubs-hard.h \
+ /opt/cross-pi-gcc-10.2.0-arm8-a/install/lib/gcc/arm-linux-gnueabihf/10.2.0/include/stddef.h \
+ /opt/cross-pi-gcc-10.2.0-arm8-a/install/lib/gcc/arm-linux-gnueabihf/10.2.0/include/stdarg.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/types.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/timesize.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/typesizes.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/time64.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/types/__fpos_t.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/types/__mbstate_t.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/types/__fpos64_t.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/types/__FILE.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/types/FILE.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/types/struct_FILE.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/stdio_lim.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/sys_errlist.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/syslog.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/sys/syslog.h \
+ /opt/cross-pi-gcc/sysroot/usr/include/arm-linux-gnueabihf/bits/syslog-path.h

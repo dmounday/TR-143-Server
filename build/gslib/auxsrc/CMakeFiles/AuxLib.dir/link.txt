@@ -1,0 +1,2 @@
+/opt/cross-pi-gcc/install/bin/arm-linux-gnueabihf-ar qc libAuxLib.a CMakeFiles/AuxLib.dir/cpelog.c.o CMakeFiles/AuxLib.dir/dns_lookup.c.o
+/opt/cross-pi-gcc/install/bin/arm-linux-gnueabihf-ranlib libAuxLib.a
