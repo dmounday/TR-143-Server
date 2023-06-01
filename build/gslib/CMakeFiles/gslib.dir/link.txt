@@ -1,2 +1,0 @@
-/opt/cross-pi-gcc/install/bin/arm-linux-gnueabihf-ar qc libgslib.a CMakeFiles/gslib.dir/src/event.c.o CMakeFiles/gslib.dir/src/ipv4ipv6.c.o CMakeFiles/gslib.dir/src/protocol.c.o CMakeFiles/gslib.dir/src/utils.c.o CMakeFiles/gslib.dir/src/wget.c.o CMakeFiles/gslib.dir/src/www.c.o CMakeFiles/gslib.dir/src/md5.c.o
-/opt/cross-pi-gcc/install/bin/arm-linux-gnueabihf-ranlib libgslib.a

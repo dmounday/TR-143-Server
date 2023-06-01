@@ -2,3 +2,5 @@
 /.vscode
 /httpserver.o
 /udpecho
+/httpserver
+/build/

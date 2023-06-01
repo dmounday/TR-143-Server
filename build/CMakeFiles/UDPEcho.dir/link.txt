@@ -1,1 +1,0 @@
-/opt/cross-pi-gcc/install/bin/arm-linux-gnueabihf-gcc --sysroot=/opt/cross-pi-gcc/sysroot/ -Wno-psabi CMakeFiles/UDPEcho.dir/UDPEcho.c.o -o UDPEcho  gslib/auxsrc/libAuxLib.a gslib/libgslib.a 
